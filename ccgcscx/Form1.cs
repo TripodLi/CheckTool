@@ -20,7 +20,6 @@ namespace ccgcscx
 {
     public partial class Form1 : Form
     {
-        //OracleConnection conn = new OracleConnection("Data Source=MES;User Id=cmes;Password=cmes;");
         OracleConnection conn = new OracleConnection();
         string database, usename, password;
         int stid;
