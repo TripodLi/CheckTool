@@ -83,7 +83,7 @@ namespace ccgcscx
             comboBox1.DisplayMember = "line_name";
 
 
-            //dataGridViewst.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            
             dataGridViewst.ClipboardCopyMode = DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             dataGridViewnode.ClipboardCopyMode = DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             indx++;
